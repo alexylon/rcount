@@ -1,10 +1,10 @@
 [package]
-name = "rcount"
+name = "rloc"
 description = "Count Rust lines of code."
 readme = "README.md"
 keywords = ["scripts"]
 categories = ["development-tools"]
-version = "0.1.0"
+version = "0.1.1"
 rust-version = "1.85"
 authors = ["Alexander Alexandrov"]
 license = "MIT"
